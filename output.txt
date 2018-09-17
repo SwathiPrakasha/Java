@@ -1,0 +1,44 @@
+----------------------------------------------------------------------------------
+Future value of an ordinary annuity is:
+At the end of year 1, value is 20000.00
+At the end of year 2, value is 41000.00
+At the end of year 3, value is 63050.00
+At the end of year 4, value is 86202.50
+At the end of year 5, value is 110512.63
+
+	Base 		Rate 	# 	Formula 	Loop
+	20000.00 	0.05 	5 	110512.63 	110512.63
+
+The present Value of an Ordinary Annuity is  86589.533413
+That is the amount you have to start with to give out 20000.00 at the end
+of every year for 5 years, assuming the remaining money earns 0.05
+
+Starting with 86589.533413
+At the end of the year 1, give out 20000.00, leaving 70919.01
+At the end of the year 2, give out 20000.00, leaving 54464.96
+At the end of the year 3, give out 20000.00, leaving 37188.21
+At the end of the year 4, give out 20000.00, leaving 19047.62
+At the end of the year 5, give out 20000.00, leaving 0.00
+----------------------------------------------------------------------------------
+
+Future Value of an Annuity Due:
+At the begining of year 1, value is 20000.00
+At the begining of year 2, value is 41000.00
+At the begining of year 3, value is 63050.00
+At the begining of year 4, value is 86202.50
+At the begining of year 5, value is 110512.63
+At the beginning of year 6,value is 116038.26
+
+	Base 		Rate 	# 	Formula 	Loop
+	20000.00 	0.05 	5 	116038.26 	116038.26
+
+The Present Value of an Annuity Due is 90919.01
+That is the amount you have to start with to give out 20000.00 at the begining
+of every year for 5 years, assuming the remaining money earns 0.05
+
+Starting with 90919.01
+At the beginning of the year 1, give out 20000.00, leaving 70919.01
+At the beginning of the year 2, give out 20000.00, leaving 54464.96
+At the beginning of the year 3, give out 20000.00, leaving 37188.21
+At the beginning of the year 4, give out 20000.00, leaving 19047.62
+At the beginning of the year 5, give out 20000.00, leaving 0.00
