@@ -1,3 +1,6 @@
+input 20000, 0.05, 5 
+
+Output
 ----------------------------------------------------------------------------------
 Future value of an ordinary annuity is:
 At the end of year 1, value is 20000.00
